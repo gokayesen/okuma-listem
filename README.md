@@ -36,8 +36,8 @@ npm run build
 
 ## Canlı Demo
 
-[Canlı demo linki buraya eklenecek]
+https://euphonious-kringle-af4085.netlify.app
 
 ## GitHub Reposu
 
-[GitHub repo linki buraya eklenecek]
+https://github.com/gokayesen/okuma-listem
